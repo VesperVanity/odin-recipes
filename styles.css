@@ -1,0 +1,46 @@
+*
+{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1, h2, h3, h4
+{
+    background-color: rgb(236, 236, 236);
+}
+
+h1
+{
+    text-align: center;
+    font-size: 64px;
+}
+
+h2
+{
+    font-size: 48px;
+}
+
+h3
+{
+    font-size: 32px;
+}
+
+.main-header
+{
+    color: rgb(107, 107, 107);
+}
+
+.description
+{
+    color: rgb(250, 100, 100);
+    text-align: center;
+}
+
+.ingredients
+{
+    color: rgb(100, 165, 250);
+}
+
+.directions
+{
+    color: rgb(225, 100, 250);
+}
