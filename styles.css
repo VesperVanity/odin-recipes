@@ -6,6 +6,7 @@
 h1, h2, h3, h4
 {
     background-color: rgb(236, 236, 236);
+    padding: 20px 0px;
 }
 
 h1
@@ -49,4 +50,12 @@ h3
 {
     font-size: 20px;
     color: rgb(63, 63, 63);
+}
+
+.recipe-link
+{
+    background-color: rgba(165, 218, 255, 0.429);
+    padding: 16px;
+    border: 2px, solid, rgb(166, 224, 255);
+    
 }
